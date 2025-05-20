@@ -26,6 +26,6 @@ Make sure you have Node.js v16+ installed.
 npm install puppeteer
 
 
-▶️ Run the script
+## ▶️ Run the script
 ```bash
 node FormAutomation.js
