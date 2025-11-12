@@ -1,11 +1,11 @@
-# 🧾 Form Automation with Puppeteer
+# Form Automation with Puppeteer
 
 A Node.js script that automates the process of filling out and submitting a web form using **Puppeteer**.  
 Supports validation, dropdown selection, and screenshot capture before and after submission.
 
 ---
 
-## 🔧 Features
+## Features
 
 - Auto-fills form fields (name, email, phone, company)
 - Validates input before submission
@@ -16,7 +16,7 @@ Supports validation, dropdown selection, and screenshot capture before and after
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - Node.js
 - Puppeteer
@@ -24,7 +24,7 @@ Supports validation, dropdown selection, and screenshot capture before and after
 
 ---
 
-## 🚀 Run Locally
+## Run Locally
 
 ```bash
 npm install puppeteer
